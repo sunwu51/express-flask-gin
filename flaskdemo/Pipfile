@@ -1,0 +1,12 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.doubanio.com/simple"
+verify_ssl = false
+
+[dev-packages]
+
+[packages]
+flask = "*"
+
+[requires]
+python_version = "3.5"
